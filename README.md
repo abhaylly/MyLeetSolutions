@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhaylly/MyLeetSolutions/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abhaylly/MyLeetSolutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abhaylly/MyLeetSolutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
