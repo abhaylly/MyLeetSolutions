@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhaylly/MyLeetSolutions/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/abhaylly/MyLeetSolutions/tree/master/0071-simplify-path) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/abhaylly/MyLeetSolutions/tree/master/0064-minimum-path-sum) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/abhaylly/MyLeetSolutions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
