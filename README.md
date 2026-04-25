@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhaylly/MyLeetSolutions/tree/master/0011-container-with-most-water) |
 | [0064-minimum-path-sum](https://github.com/abhaylly/MyLeetSolutions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/abhaylly/MyLeetSolutions/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhaylly/MyLeetSolutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/abhaylly/MyLeetSolutions/tree/master/0078-subsets) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/abhaylly/MyLeetSolutions/tree/master/0071-simplify-path) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhaylly/MyLeetSolutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
