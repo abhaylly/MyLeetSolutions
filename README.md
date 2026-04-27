@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhaylly/MyLeetSolutions/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/abhaylly/MyLeetSolutions/tree/master/0031-next-permutation) |
 | [0064-minimum-path-sum](https://github.com/abhaylly/MyLeetSolutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/abhaylly/MyLeetSolutions/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhaylly/MyLeetSolutions/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/abhaylly/MyLeetSolutions/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
