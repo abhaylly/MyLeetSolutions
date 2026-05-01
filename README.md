@@ -72,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/abhaylly/MyLeetSolutions/tree/master/0175-combine-two-tables) |
 | [1321-restaurant-growth](https://github.com/abhaylly/MyLeetSolutions/tree/master/1321-restaurant-growth) |
 <!---LeetCode Topics End-->
