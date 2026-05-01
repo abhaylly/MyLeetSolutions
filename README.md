@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/abhaylly/MyLeetSolutions/tree/master/0024-swap-nodes-in-pairs) |
+## Database
+|  |
+| ------- |
+| [1321-restaurant-growth](https://github.com/abhaylly/MyLeetSolutions/tree/master/1321-restaurant-growth) |
 <!---LeetCode Topics End-->
