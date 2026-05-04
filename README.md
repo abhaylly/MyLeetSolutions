@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhaylly/MyLeetSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhaylly/MyLeetSolutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abhaylly/MyLeetSolutions/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/abhaylly/MyLeetSolutions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/abhaylly/MyLeetSolutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/abhaylly/MyLeetSolutions/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/abhaylly/MyLeetSolutions/tree/master/0064-minimum-path-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abhaylly/MyLeetSolutions/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/abhaylly/MyLeetSolutions/tree/master/0064-minimum-path-sum) |
 ## Stack
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/abhaylly/MyLeetSolutions/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/abhaylly/MyLeetSolutions/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/abhaylly/MyLeetSolutions/tree/master/1341-movie-rating) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/abhaylly/MyLeetSolutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
