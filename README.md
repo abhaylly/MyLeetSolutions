@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/abhaylly/MyLeetSolutions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/abhaylly/MyLeetSolutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/abhaylly/MyLeetSolutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/abhaylly/MyLeetSolutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/abhaylly/MyLeetSolutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/abhaylly/MyLeetSolutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/abhaylly/MyLeetSolutions/tree/master/0078-subsets) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhaylly/MyLeetSolutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/abhaylly/MyLeetSolutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/abhaylly/MyLeetSolutions/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhaylly/MyLeetSolutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/abhaylly/MyLeetSolutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/abhaylly/MyLeetSolutions/tree/master/0064-minimum-path-sum) |
 ## Stack
 |  |
