@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/abhaylly/MyLeetSolutions/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/abhaylly/MyLeetSolutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/abhaylly/MyLeetSolutions/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/abhaylly/MyLeetSolutions/tree/master/0071-simplify-path) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhaylly/MyLeetSolutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/abhaylly/MyLeetSolutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/abhaylly/MyLeetSolutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/abhaylly/MyLeetSolutions/tree/master/0069-sqrtx) |
 ## Binary Search
@@ -98,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/abhaylly/MyLeetSolutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/abhaylly/MyLeetSolutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
